@@ -1,6 +1,16 @@
 # Assignment Cake Wallet (By Munish Thakur)
 
 
+**Project Working Gif:**
+
+
+<table>
+<tr>
+    <td> Setup PIN &nbsp; <img src="https://user-images.githubusercontent.com/3351501/147148530-75743d53-9849-40da-bafd-eeb4358de3f9.gif"  alt="1" width = 350px height = 650px align="center"></td>
+    <td> Verify PIN &nbsp; <img src="https://user-images.githubusercontent.com/3351501/147148985-e5bdebc7-2b6e-4e01-9917-ed65dea51839.gif"  alt="1" width = 350px height = 650px align="center"></td>
+   </tr> 
+</table>
+
 **Snapshots:**
 
 <table>
@@ -25,4 +35,4 @@
 
 **Project Structure:**
 
-<img width="445" alt="Screen Shot 2021-12-23 at 0 53 46" src="https://user-images.githubusercontent.com/3351501/147145572-6db6de7d-878b-4815-b4f3-439cc41eaf74.png">
+<img width="250" height="400" alt="Screen Shot 2021-12-23 at 0 53 46" src="https://user-images.githubusercontent.com/3351501/147145572-6db6de7d-878b-4815-b4f3-439cc41eaf74.png">
